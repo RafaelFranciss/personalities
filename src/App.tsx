@@ -31,6 +31,9 @@ export default function Gallery() {
 
   return (
     <>
+
+      <h1>Rafael Francis Acuna</h1>  
+      
       <button onClick={handleBackClick}>
         Back
       </button>
